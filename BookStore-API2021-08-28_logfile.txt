@@ -1,0 +1,6 @@
+2021-08-28 19:37:50.8223 INFO Attempted to Get an author with id:  1
+2021-08-28 19:37:55.6243 WARN Author with id:  1 was not found
+2021-08-28 19:38:25.0303 INFO Attempted to Get an author with id:  1
+2021-08-28 19:38:25.1497 WARN Author with id:  1 was not found
+2021-08-28 19:38:45.3116 INFO Attempted to Get an author with id:  1
+2021-08-28 19:38:56.5650 WARN Author with id:  1 was not found

@@ -1,0 +1,10 @@
+2021-09-03 22:44:37.8198 INFO Author Submission attmpted
+2021-09-03 22:44:38.2063 ERROR Missing type map configuration or unsupported mapping.
+
+Mapping types:
+Object -> Author
+System.Object -> BookStore_API.Data.Author - 
+2021-09-03 22:48:12.5057 INFO Author Submission attmpted
+2021-09-03 22:48:18.6040 INFO Author created
+2021-09-03 22:49:49.7321 INFO Author Submission attmpted
+2021-09-03 22:49:49.8949 INFO Author created
